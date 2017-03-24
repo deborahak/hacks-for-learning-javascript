@@ -5,7 +5,6 @@ while(!incorrect) {
 let num = prompt(question), str = '';
     incorrect = num == 4;
 
-
 if(incorrect) {
     str = 'You worked hard to add those number!';
 } else {
